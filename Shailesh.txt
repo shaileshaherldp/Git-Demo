@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello hiii
 good Morninggit hello
+=======
+Hello Hi
+good Morninggita ghhh
+>>>>>>> feat: Modified
